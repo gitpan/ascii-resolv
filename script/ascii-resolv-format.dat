@@ -1,0 +1,22 @@
+# README
+# ------
+# This is the file which contains all necessary information
+# which will be used by the template (results format).
+# For more information on how to modify this file RTFM or in
+# simpler terms: reread the readme. _DON'T_ make any changes besides
+# the message sections.
+# ------
+########
+
+
+# ASCII RESOLVE FORMAT
+# ----------
+# Define how the results will be shown (move anything between the #lines as you wish)
+# Note that all newlines will be supplied too.
+# ----------
+##START#####
+############
+$DIGIT = $ASCII
+##END#######
+############
+

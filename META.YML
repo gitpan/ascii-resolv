@@ -1,0 +1,8 @@
+--- #YAML:1.0
+module_name: ASCII Resolve
+dist_version_from: script/ascii-resolv.cgi
+installdirs: site
+requires:
+distribution_type: script
+license: perl
+dist_abstract: Flexible ASCII resolver
